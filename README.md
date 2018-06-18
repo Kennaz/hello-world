@@ -1,2 +1,2 @@
 # hello-world
-Wololo
+It is good to be the king
